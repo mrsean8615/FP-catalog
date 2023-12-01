@@ -2,10 +2,10 @@
 
 
 function connectDB() {
-        $servername = "catalogdb.cvrkscuruxt3.us-west-1.rds.amazonaws.com";
-        $username = "admin";
-        $password = "youaintgetthis";
-        $database = "ecom";
+        $servername = "yourseverhost";
+        $username = "username";
+        $password = "password";
+        $database = "db";
         
     // Create connection
         $conn = new mysqli($servername, $username, $password, $database);
