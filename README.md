@@ -12,15 +12,3 @@ To get started, create some files, play with the terminal,
 or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
 Happy coding!
-
-// function connectDB() {
-//         $servername = "mysqlcluster21.registeredsite.com";
-//         $username = "ecomadmin";
-//         $password = "Pikachu23343!";
-//         $database = "ecom";
-        
-//     // Create connection
-//         $conn = new mysqli($servername, $username, $password, $database);
-//         return $conn;
-
-// }
